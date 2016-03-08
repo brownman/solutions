@@ -10,6 +10,6 @@ ngCordova
 
 Android
 ---
-  
+    
 Adb
  
