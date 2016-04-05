@@ -15,9 +15,9 @@ http://www.beneaththewaves.net/Software/OTORI_-_Exploring_the_Linux_Filesystem.h
 today
 -------
  phone - 
--- may.g  
+-- may.g  -> pap
 
 
 todo
 ---
-- pap: water
+- pap: water *
