@@ -22,3 +22,8 @@ todo
 ---
 - pap: water *
 - shop:nai,sab
+
+
+rancher
+----
+- alarm
