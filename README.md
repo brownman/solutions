@@ -11,6 +11,7 @@ security
 --------
 - using zap
 http://www.beneaththewaves.net/Software/OTORI_-_Exploring_the_Linux_Filesystem.html
+https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/
  
 today
 -------
