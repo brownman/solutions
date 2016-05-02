@@ -38,3 +38,7 @@ monitoring
 npm
 ----
 https://docs.npmjs.com/getting-started/using-a-package.json
+
+full-stack
+-------
+- https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A
