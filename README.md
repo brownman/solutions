@@ -1,10 +1,18 @@
 # solutions
 
+
+mindmap
+----
 http://drichard.org/mindmaps/
     
           
-      
-       
+sensu + docker
+-----
+- x
+
+
+bash
+-----
 http://guide.bash.academy/
 
 security
