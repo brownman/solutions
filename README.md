@@ -10,6 +10,9 @@ sensu + docker
 -----
 - x
 
+docker source
+---
+https://github.com/docker/compose
 
 bash
 -----
