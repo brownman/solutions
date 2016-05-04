@@ -1,6 +1,6 @@
 # solutions
 
-
+  
 mindmap
 ----
 http://drichard.org/mindmaps/
