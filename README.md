@@ -3,7 +3,7 @@
   
 docker security
 --------
-https://www.reddit.com/r/docker/comments/47n4vb/how_to_setup_consul_docker_health_checks/
+https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html
 
 mindmap
 ----
