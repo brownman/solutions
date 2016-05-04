@@ -1,5 +1,8 @@
 # solutions
 
+alert ui
+-----
+http://docs.alerta.io/en/latest/integrations.html
   
 docker security
 --------
