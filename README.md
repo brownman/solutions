@@ -1,6 +1,10 @@
 # solutions
 
   
+docker security
+--------
+https://www.reddit.com/r/docker/comments/47n4vb/how_to_setup_consul_docker_health_checks/
+
 mindmap
 ----
 http://drichard.org/mindmaps/
