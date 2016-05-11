@@ -1,6 +1,11 @@
 # solutions
  
-   
+
+node simple 
+---
+http://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
+
+
 node monitoring
 --------
 watchman
