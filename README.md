@@ -1,5 +1,7 @@
 # solutions
  
+node rabbitmq
+---
  
 node simple 
 ---
