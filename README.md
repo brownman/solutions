@@ -8,7 +8,7 @@ node rabbitmq
 node simple 
 ---
 http://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
-
+https://github.com/rockbot/node-for-beginners
 
 node monitoring
 --------
