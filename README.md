@@ -2,11 +2,11 @@
       ===================
       
       
-[aaa][]
+[go to a][]
 =====
 cvbcvbcvb
 
-[aaa]: https://abc.org/Markdown/
+[go to a]: https://github.com/brownman/solutions#a
 
 
 [a][]
