@@ -1,45 +1,6 @@
 # solutions
-      ===================
+===================
       
-      
-[go to a][]
-=====
-cvbcvbcvb
-
-[go to a]: https://github.com/brownman/solutions#a
-
-
-[a][]
-===================
-
-
-[bbbb][]
-===================
-
-
-
-[c3][]
- ===================
- sadf
- 
-[Python-Markdown dd][]
-===================
-
-asdf
-
-[Python-Markdown][]
-===================
-
-asdf
-
-
-[Markdown][]
- ===================
- dsf
- 
-[Python-Markdown][]
-===================
-     
 node rabbitmq
 --- 
  https://github.com/squaremo/rabbit.js
@@ -118,4 +79,3 @@ full-stack
 
  
 
-[Python-Markdown dd]: https://pythonhosted.org/Markdown/
