@@ -1,6 +1,12 @@
 # solutions
 ===================
-      
+
+novnc
+----
+docker run -td -p 6080:6080 fernandosanchez/simplenovnc
+
+
+
 node rabbitmq
 ---  
  https://github.com/squaremo/rabbit.js
