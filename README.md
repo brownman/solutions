@@ -1,6 +1,9 @@
 # solutions
 ===================
 
+ng-click 300ms
+-------------
+https://github.com/ftlabs/fastclick
 
 modals
 ---
