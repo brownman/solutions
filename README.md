@@ -1,7 +1,12 @@
 # solutions
 ===================
+ 
+ 
+share
+---
+https://github.com/leecrossley/cordova-plugin-social-message
 
-ng-click 300ms
+ ng-click 300ms
 -------------
 https://github.com/ftlabs/fastclick
 
