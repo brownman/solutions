@@ -1,6 +1,10 @@
 # solutions
 ===================
-   
+
+hackintosh
+----
+https://github.com/kholia/OSX-KVM
+
  
 share
 ---
