@@ -1,6 +1,10 @@
 # solutions
 ===================
 
+vmware
+-----
+- x
+
 rabbitmq
 ----
 https://gist.github.com/diegodfsd/33b8efc699ff86206181
