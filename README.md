@@ -1,6 +1,12 @@
 # solutions
 ===================
 
+
+node streams
+----
+ https://github.com/substack/stream-handbook
+
+
 vmware
 -----
 - x
