@@ -1,6 +1,6 @@
 # solutions
 ===================
- 
+   
 link
 --
  https://web.whatsapp.com/
