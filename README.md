@@ -1,6 +1,10 @@
 # solutions
 ===================
-   
+
+git diff
+---
+- https://gist.github.com/hofmannsven/6814451
+
 link
 --
  https://web.whatsapp.com/
