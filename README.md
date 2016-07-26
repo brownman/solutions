@@ -1,6 +1,6 @@
 # solutions
 ===================
-       
+http://stackoverflow.com/questions/16286605/angularjs-initialize-service-with-asynchronous-data   
      
 jmeter  
 ---
