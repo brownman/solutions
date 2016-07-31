@@ -1,5 +1,12 @@
 # solutions
 ===================
+
+rabbit
+----
+https://github.com/squaremo/amqp.node/tree/master/examples/tutorials#tutorial-three-publishsubscribe
+
+remote config
+----
 http://stackoverflow.com/questions/16286605/angularjs-initialize-service-with-asynchronous-data   
       
 jmeter  
