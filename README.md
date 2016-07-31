@@ -4,6 +4,7 @@
 rabbit
 ----
 https://github.com/squaremo/amqp.node/tree/master/examples/tutorials#tutorial-three-publishsubscribe
+https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/javascript-nodejs/src
 
 remote config
 ----
