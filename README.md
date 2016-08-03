@@ -1,6 +1,6 @@
 # solutions
 ===================
-
+  
 rabbit
 ----
 https://github.com/squaremo/amqp.node/tree/master/examples/tutorials#tutorial-three-publishsubscribe
