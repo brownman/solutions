@@ -1,6 +1,10 @@
 # solutions
 ===================
-  
+
+gist
+----
+https://gist.github.com/brownman
+
 rabbit
 ---- 
 https://github.com/squaremo/amqp.node/tree/master/examples/tutorials#tutorial-three-publishsubscribe
