@@ -1,7 +1,8 @@
 # solutions
 ===================
-    
-      
+     
+- TEAMCITY_DATA_PATH
+
 gist  
 ----
 https://gist.github.com/brownman
