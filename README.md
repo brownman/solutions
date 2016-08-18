@@ -1,6 +1,9 @@
 # solutions
 ===================
       
+      
+- Failure: socket hang up when slc deploy
+
 - TEAMCITY_DATA_PATH
 
 gist  
