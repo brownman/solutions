@@ -3,6 +3,8 @@
       
       
 - Failure: socket hang up when slc deploy
+----
+- http://stackoverflow.com/questions/16995184/nodejs-what-does-socket-hang-up-actually-mean
 
 - TEAMCITY_DATA_PATH
 
