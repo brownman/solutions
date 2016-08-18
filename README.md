@@ -1,6 +1,6 @@
 # solutions
 ===================
-     
+      
 - TEAMCITY_DATA_PATH
 
 gist  
