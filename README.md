@@ -1,5 +1,18 @@
 # solutions
 ===================
+
+- docker clean-up: https://github.com/chadoe/docker-cleanup-volumes
+
+
+- npm link:
+```
+time(rm -rf node_modules; npm install --production --link=true --legacy-bundling=true --cache=$HOME/.npm-cache;ls -l node_modules/)
+npm config set link=true
+npm config set legacy-bundling=true
+npm config set prefix=$HOME/.npm-global
+
+```
+
 - https://github.com/alexanderGugel/ied
       
 - Failure: socket hang up when slc deploy
