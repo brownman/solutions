@@ -1,7 +1,6 @@
 # solutions
 ===================
-
-
+   
 - monitoring:
 - watchmen 
 
