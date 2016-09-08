@@ -6,9 +6,16 @@
 [authorization_test](https://github.com/jrhicks/loopback-authorization-practice/blob/master/test/siera_authorization_test.js)
 
 
-- monitoring:
-- watchmen  
-    
+monitoring:
+----
+- x
+
+watchmen  
+------
+- x
+
+docker
+--------
 - docker clean-up: https://github.com/chadoe/docker-cleanup-volumes
 
 
