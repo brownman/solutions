@@ -8,7 +8,7 @@
 - [hook: set time](https://github.com/foreveryh/loopback-angularjs/blob/6422d39177b81a9cf28fac19645b56b93dba216e/common/models/article.js)
 - [role filter](https://github.com/jrhicks/loopback-authorization-practice/blob/1e88ce12f5dc9a3813c2c8cf81a86e8fd65dc6ef/lib/apply-role-filters.js)
 - [siera](https://github.com/jrhicks/loopback-authorization-practice)
-
+- [require app obj](https://docs.strongloop.com/display/public/LB/Working+with+LoopBack+objects)
 monitoring:
 ----
 - x
