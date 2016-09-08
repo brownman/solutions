@@ -1,11 +1,10 @@
 # solutions
 ===================
 
-- Loopback acl 
+### Loopback acl 
 -----
+[authorization_test](https://github.com/jrhicks/loopback-authorization-practice/blob/master/test/siera_authorization_test.js)
 
-- https://github.com/jrhicks/loopback-authorization-practice/blob/master/test/siera_authorization_test.js
-- 
 
 - monitoring:
 - watchmen  
