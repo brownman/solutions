@@ -4,7 +4,7 @@
 ### Loopback acl 
 -----
 [authorization_test](https://github.com/jrhicks/loopback-authorization-practice/blob/master/test/siera_authorization_test.js)
-
+[observe](https://github.com/beornharris/authtest/blob/master/common/models/network.js)
 
 monitoring:
 ----
