@@ -1,7 +1,12 @@
 # solutions
 ===================
+
 - Loopback acl 
--    
+-----
+
+- https://github.com/jrhicks/loopback-authorization-practice/blob/master/test/siera_authorization_test.js
+- 
+
 - monitoring:
 - watchmen  
     
