@@ -6,7 +6,7 @@
 - [authorization_test](https://github.com/jrhicks/loopback-authorization-practice/blob/master/test/siera_authorization_test.js)
 - [observe](https://github.com/beornharris/authtest/blob/master/common/models/network.js)
 - [hook: set time](https://github.com/foreveryh/loopback-angularjs/blob/6422d39177b81a9cf28fac19645b56b93dba216e/common/models/article.js)
-
+- [role filter](https://github.com/jrhicks/loopback-authorization-practice/blob/1e88ce12f5dc9a3813c2c8cf81a86e8fd65dc6ef/lib/apply-role-filters.js)
 
 monitoring:
 ----
