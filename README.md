@@ -5,6 +5,7 @@
 -- get all object values
 - Object.keys(a).map(function(key){return a[key]})
  
+
 ## angular
 - http://stackoverflow.com/questions/33229679/need-to-update-value-of-a-property-in-all-objects-of-an-array-of-objects
 - angular.forEach($scope.rowData,function(item,index){ item["itemHr"] = "25";
