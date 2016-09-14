@@ -1,6 +1,6 @@
 # solutions
 ===================
- 
+   
 #js pure
 -- get all object values
 - Object.keys(a).map(function(key){return a[key]})
