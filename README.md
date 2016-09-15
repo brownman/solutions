@@ -2,7 +2,7 @@
 ===================
    
 #js pure
--- get all object values
+-- get all object  values
 - Object.keys(a).map(function(key){return a[key]})
  
 
