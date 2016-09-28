@@ -1,6 +1,6 @@
 # solutions
 =================== 
-#redis
+#redis 
 - http://redis.io/documentation
        
 #js pure
