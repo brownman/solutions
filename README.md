@@ -1,5 +1,10 @@
 # solutions
 =================== 
+
+datadog
+===
+- https://www.datadoghq.com/blog/the-power-of-tagged-metrics/
+
 # redis   
 - http://redis.io/documentation
                  
