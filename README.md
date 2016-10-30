@@ -1,7 +1,7 @@
 # solutions
 =================== 
      
-datadog
+datadog 
 ===
 - https://www.datadoghq.com/blog/the-power-of-tagged-metrics/
 
