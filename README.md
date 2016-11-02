@@ -1,6 +1,10 @@
 # solutions
 =================== 
-        
+statsd
+====
+https://github.com/strongloop/strong-statsd/tree/master/test
+
+
 datadog  
 ===
 - https://www.datadoghq.com/blog/the-power-of-tagged-metrics/
