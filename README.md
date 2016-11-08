@@ -1,5 +1,9 @@
 # solutions
 =================== 
+
+http://documentup.com/shelljs/shelljs
+- tee: cat('input.txt').to('output.txt'); //or toEnd()
+
 ios debug safari-chrome
 ====
 https://github.com/google/ios-webkit-debug-proxy
