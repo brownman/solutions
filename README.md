@@ -1,5 +1,9 @@
 # solutions
 =================== 
+loopback tests
+---
+- x
+
 
 http://documentup.com/shelljs/shelljs
 - tee: cat('input.txt').to('output.txt'); //or toEnd()
