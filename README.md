@@ -2,7 +2,7 @@
 =================== 
 loopback tests
 ---
-- x 
+- https://github.com/mediapolis/digitopia-example/blob/master/common/models/OgTag.json
 
 
 http://documentup.com/shelljs/shelljs
