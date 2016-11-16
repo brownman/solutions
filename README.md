@@ -1,5 +1,11 @@
 # solutions
 =================== 
+
+docker-ui
+--
+- https://github.com/kevana/ui-for-docker
+
+
 loopback tests
 ---
 - https://github.com/mediapolis/digitopia-example/blob/master/common/models/OgTag.json
