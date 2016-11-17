@@ -1,5 +1,9 @@
 # solutions
 =================== 
+javascript extra learn
+----
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+- http://stackoverflow.com/questions/9418697/how-to-unsubscribe-from-a-socket-io-subscription/18148512
 
 docker-ui
 --
