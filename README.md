@@ -1,4 +1,4 @@
-# solutions
+# solutions : http://drichard.org/mindmaps/
 =================== 
 javascript extra learn
 ----
