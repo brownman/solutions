@@ -1,5 +1,11 @@
 # solutions : http://drichard.org/mindmaps/
 =================== 
+
+loopback uniq
+---
+- https://apidocs.strongloop.com/loopback-datasource-juggler/#validatable-validatesexclusionof
+
+
 javascript extra learn
 ----
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
