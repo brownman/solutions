@@ -2,7 +2,7 @@
 =================== 
 
 loopback uniq
----
+--- 
 - https://apidocs.strongloop.com/loopback-datasource-juggler/#validatable-validatesexclusionof
 
 
