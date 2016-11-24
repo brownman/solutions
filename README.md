@@ -26,6 +26,7 @@ docker-ui
 
 loopback tests
 ---
+- http://loopback.io/doc/en/lb2/Accessing-related-models.html
 - https://github.com/mediapolis/digitopia-example/blob/master/common/models/OgTag.json
 
 
