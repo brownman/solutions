@@ -1,5 +1,13 @@
 # solutions : http://drichard.org/mindmaps/
 =================== 
+node-inspector / node debug
+----------
+- https://mattdesl.svbtle.com/debugging-nodejs-in-chrome-devtools
+- https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools
+
+google chrome ext
+---------
+- https://gist.github.com/canuckistani/22939c37492d28b83b1d
 
 loopback uniq
 --- 
