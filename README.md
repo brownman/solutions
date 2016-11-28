@@ -1,5 +1,11 @@
 # solutions : http://drichard.org/mindmaps/
 =================== 
+
+
+nodemon
+-----
+- https://github.com/remy/nodemon#application-isnt-restarting
+
 node-inspector / node debug
 ----------
 - https://mattdesl.svbtle.com/debugging-nodejs-in-chrome-devtools
