@@ -1,6 +1,9 @@
 # solutions : http://drichard.org/mindmaps/
 =================== 
 
+strongloop - error handler
+----------
+- https://gist.github.com/pulkitsinghal/82e659ca4b56bc1b4b2c
 
 nodemon
 -----
