@@ -1,5 +1,9 @@
 # solutions : http://drichard.org/mindmaps/
 =================== 
+devtool + ios proxy
+-------------
+- https://github.com/google/ios-webkit-debug-proxy/issues/172
+
 
 strongloop - error handler
 ----------
