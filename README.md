@@ -2,8 +2,9 @@
 =================== 
 devtool + ios proxy
 -------------
+- https://github.com/libimobiledevice/libimobiledevice
 - https://github.com/google/ios-webkit-debug-proxy/issues/172
-
+- http://www.libimobiledevice.org/
 
 strongloop - error handler
 ----------
