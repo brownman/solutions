@@ -1,5 +1,10 @@
 # solutions : http://drichard.org/mindmaps/
 =================== 
+
+linux suspend
+------
+- no mouse after suspend
+
 devtool + ios proxy
 -------------
 - https://github.com/libimobiledevice/libimobiledevice
