@@ -1,6 +1,6 @@
 # solutions : http://drichard.org/mindmaps/
 =================== 
-
+ 
 linux suspend
 ------
 - no mouse after suspend
