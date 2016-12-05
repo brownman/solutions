@@ -1,6 +1,11 @@
 # solutions : http://drichard.org/mindmaps/
 =================== 
- 
+loopback
+----------
+- is Admin ?
+- http://stackoverflow.com/questions/32321236/loopback-testing-what-is-the-correct-way-to-test-with-a-user-and-role
+
+
 linux suspend
 ------
 - no mouse after suspend
@@ -14,6 +19,7 @@ devtool + ios proxy
 strongloop - error handler
 ----------
 - https://gist.github.com/pulkitsinghal/82e659ca4b56bc1b4b2c
+
 
 nodemon
 -----
