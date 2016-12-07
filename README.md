@@ -1,7 +1,7 @@
 # solutions : http://drichard.org/mindmaps/
 =================== 
 loopback
-----------
+---------- 
 - is Admin ?
 - http://stackoverflow.com/questions/32321236/loopback-testing-what-is-the-correct-way-to-test-with-a-user-and-role
 
