@@ -1,5 +1,5 @@
 # solutions : http://drichard.org/mindmaps/
-=================== 
+===================  
 loopback
 ----------  
 - is Admin ?
