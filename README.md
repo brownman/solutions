@@ -1,5 +1,10 @@
 # solutions : http://drichard.org/mindmaps/
-===================  
+=================== 
+
+facebook sdk
+---
+- ios: https://github.com/facebook/facebook-ios-sdk/blob/f7531a838a1ec3308721f335e801ac9f508feee4/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.m#L573
+
 loopback
 ----------  
 - is Admin ?
