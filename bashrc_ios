@@ -1,0 +1,21 @@
+alias deploy0='ideviceinstaller -U com.xxx.app'
+alias deploy1="ios-deploy -W --bundle  ./cordova/cordova_project/platforms/ios/build/device/*.ipa"
+
+
+
+source $HOME/git-completion.bash
+
+export CLICOLOR=1
+export LSCOLORS=ExFxBxDxCxegedabagacad
+export PS1="\[\033[36m\]\t\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\$(parse_git_branch)$ "
+parse_git_branch() {
+
+git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+
+}
+#ios-deploy -c || true
+alias deployCool='echo skip grunt reset:ios && grunt build && grunt sign && deploy0 && deploy1'
+
+
+
+ 
