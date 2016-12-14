@@ -2,7 +2,7 @@
 angular + loopback: 
 
 
-problem: setting: "uniqu" field is being ignored ( on action: Upsert )
+problem: setting: "unique" field is being ignored ( on action: Upsert )
  
 ```
 
