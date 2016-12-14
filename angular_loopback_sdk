@@ -1,12 +1,15 @@
  
-angular + loopback
+angular + loopback: 
+
+
+problem: setting: "uniqu" field is being ignored ( on action: Upsert )
  
 ```
 
-model: user.json
+
 ..
 
-loopback-sdk::
+loopback-sdk::model: user.json
 --------
   "options": {
   "validateUpsert": true //https://loopback.io/doc/en/lb3/Model-definition-JSON-file.html
@@ -22,7 +25,7 @@ loopback-sdk::
   },
 ..
 
-angular-loopback-sdk::
+angular-loopback-sdk:: user.service.js
 --------------
       this.upsert = function (user, action) { 
         return User.prototype$updateAttributes(user).$promise //https://loopback.io/doc/en/lb3/AngularJS-JavaScript-SDK.html
