@@ -1,0 +1,30 @@
+ 
+angular + loopback
+- https://loopback.io/doc/en/lb3/AngularJS-JavaScript-SDK.html
+```
+
+model: user.json
+..
+
+loopback::
+--------
+  "options": {
+  "validateUpsert": true //https://loopback.io/doc/en/lb3/Model-definition-JSON-file.html
+},
+  "properties": {
+    "email": {
+      "type": "String",
+      "required": true,
+      "index": {
+        "unique": true
+      }
+    }
+  },
+..
+
+angular-loopback-sdk::
+--------------
+      this.upsert = function (user, action) { 
+        return User.prototype$updateAttributes(user).$promise
+          .then
+```
