@@ -1,12 +1,12 @@
  
 angular + loopback
-- https://loopback.io/doc/en/lb3/AngularJS-JavaScript-SDK.html
+ 
 ```
 
 model: user.json
 ..
 
-loopback::
+loopback-sdk::
 --------
   "options": {
   "validateUpsert": true //https://loopback.io/doc/en/lb3/Model-definition-JSON-file.html
@@ -25,6 +25,6 @@ loopback::
 angular-loopback-sdk::
 --------------
       this.upsert = function (user, action) { 
-        return User.prototype$updateAttributes(user).$promise
+        return User.prototype$updateAttributes(user).$promise //https://loopback.io/doc/en/lb3/AngularJS-JavaScript-SDK.html
           .then
 ```
