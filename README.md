@@ -1,6 +1,10 @@
 # solutions : http://drichard.org/mindmaps/
 ===================   
- 
+
+javascript expert
+----
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
+
 facebook sdk
 --- 
 - ios: https://github.com/facebook/facebook-ios-sdk/blob/f7531a838a1ec3308721f335e801ac9f508feee4/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.m#L573
