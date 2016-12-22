@@ -1,6 +1,11 @@
 # solutions : http://drichard.org/mindmaps/
 ===================   
 
+
+hacker one
+---
+- https://hackerone.com/blog/resources-for-new-hackers
+
 security angular
 ----
 - https://ryhanson.com/stealing-session-tokens-on-plunker-with-an-angular-expression-injection/
