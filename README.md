@@ -1,6 +1,11 @@
 # solutions : http://drichard.org/mindmaps/
 ===================   
 
+
+ubuntu
+--------
+- http://askubuntu.com/questions/867/how-can-i-stop-being-prompted-to-unlock-the-default-keyring-on-boot
+
 javascript expert
 ----
 - https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
