@@ -1,6 +1,10 @@
 # solutions : http://drichard.org/mindmaps/
 ===================   
 
+security angular
+----
+- https://ryhanson.com/stealing-session-tokens-on-plunker-with-an-angular-expression-injection/
+
 cordova - open link in external browser
 -----------
 - https://github.com/PaoloMessina/OpenUrlExt
