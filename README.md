@@ -1,6 +1,10 @@
 # solutions : http://drichard.org/mindmaps/
 ===================   
 
+cordova - open link in external browser
+-----------
+- https://github.com/PaoloMessina/OpenUrlExt
+
 ios
 ----
 - "User interaction is not allowed.": security -v unlock-keychain -p 1 $HOME/Library/Keychains/login.keychain;
