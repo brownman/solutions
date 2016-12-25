@@ -1,7 +1,7 @@
 # solutions : http://drichard.org/mindmaps/
 ===================   
 
-
+ 
 hacker one
 ---
 - https://hackerone.com/blog/resources-for-new-hackers
