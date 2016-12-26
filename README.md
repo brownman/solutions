@@ -1,7 +1,11 @@
 # solutions : http://drichard.org/mindmaps/
 ===================   
 
- 
+strong / loopback error handler
+---
+- https://github.com/strongloop/strong-error-handler
+
+
 hacker one
 ---
 - https://hackerone.com/blog/resources-for-new-hackers
