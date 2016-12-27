@@ -1,5 +1,8 @@
 # solutions : http://drichard.org/mindmaps/
 ===================   
+asynch
+----
+-   async.forEachOf
 
 strong / loopback error handler
 ---
