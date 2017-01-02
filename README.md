@@ -1,8 +1,8 @@
 # solutions : http://drichard.org/mindmaps/
 ===================   
-asynch
+asynch 
 ----
--   async.forEachOf
+-   async.forEachOf: http://code.runnable.com/VZELB92Qa1Y7JQuq/async-foreachof-node-js-not-working-2-for-callback
 
 strong / loopback error handler
 ---
