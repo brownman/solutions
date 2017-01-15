@@ -1,6 +1,6 @@
 [edit](https://github.com/brownman/solutions/edit/master/README.md)
 
-# solutions : http://drichard.org/mindmaps/
+# solutions : http://drichard.org/mindmaps/ 
 ===================   
 js syntax
 ---
