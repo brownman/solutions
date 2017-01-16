@@ -3,7 +3,7 @@
 # solutions : http://drichard.org/mindmaps/ 
 ===================   
 js syntax
----
+---  
 - lambda: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
 asynch 
