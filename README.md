@@ -5,7 +5,7 @@
 js syntax
 ---    
 - lambda: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
+ 
 asynch 
 ----
 -   async.forEachOf: http://code.runnable.com/VZELB92Qa1Y7JQuq/async-foreachof-node-js-not-working-2-for-callback
