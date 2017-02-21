@@ -11,3 +11,7 @@ https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%22121591
 
 - pin job location on map
 - https://www.jobkarov.com/Search/Map?x=31.91003&y=34.80168&area=-2
+
+
+- pin job location not-on-map (KM)
+- https://il.indeed.com/jobs?q=javascript&rs=1&l=%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA%2C+%D7%9E%D7%97%D7%95%D7%96+%D7%94%D7%9E%D7%A8%D7%9B%D7%96&radius=10
