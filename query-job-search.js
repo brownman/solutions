@@ -4,3 +4,10 @@ https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%22121591
 
 - find post with keyword (=location)
 - https://www.linkedin.com/search/results/content/?keywords=%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA&origin=GLOBAL_SEARCH_HEADER
+
+
+- list all companies
+- http://www.jobnet.co.il/SearchCompanies.aspx?type=AllCompanies#BackToTop
+
+- pin job location on map
+- https://www.jobkarov.com/Search/Map?x=31.91003&y=34.80168&area=-2
